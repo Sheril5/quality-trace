@@ -3,12 +3,12 @@ entries:
   quality-trace:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-02-27T09:08:21.321856986Z"
+    created: "2023-02-27T09:46:52.894422524Z"
     description: A Helm chart for Quaility Trace
-    digest: cb73587b80ed8640dcedf40d2d35271d3a1452b1103e22b80aaef9765c44db86
+    digest: eff178cd571295786cfc8ebbeed509dd39b7530bac9b08df25ec2aec80e247ef
     name: quality-trace
     type: application
     urls:
-    - https://github.com/Sheril5/quality-trace/releases/download/quality-trace-1.1.1/quality-trace-1.1.1.tgz
-    version: 1.1.1
-generated: "2023-02-27T09:08:21.138512561Z"
+    - https://github.com/Sheril5/quality-trace/releases/download/quality-trace-1.1.0/quality-trace-1.1.0.tgz
+    version: 1.1.0
+generated: "2023-02-27T09:46:52.719096029Z"
